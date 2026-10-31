@@ -1,0 +1,25 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+
+# Model files
+*.pth
+*.pt
+*.pkl
+
+# Dataset files
+data/*
+!data/.gitkeep
